@@ -1,0 +1,61 @@
+body{
+    background-color: mintcream;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 20px;
+    margin: 30px;
+    margin: 0;
+}
+.navbar{
+    background-color: skyblue;
+    padding:15px ;
+    display:flex;
+    border: 10px;
+    justify-content: space-between;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    border: #161e26;
+    border-radius: 5px;
+    padding: 10px;
+    border: chocolate;
+
+}
+.hero h2{
+    background-color: #161e26;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+.hero h1{
+    text-align: center;
+    text-justify: distribute-all-lines;
+
+}
+.hero button{
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(223, 176, 176);
+    font-weight: bold;
+    align-items: center;
+    float: right;
+    margin: 10px;
+    
+}
+
+.about{
+    background-color: rgb(182, 196, 191);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-display: block;
+    float: inline-start;
+    padding: 20px;
+    text-align: center;
+}
+.contact{
+    background-color: black:#007bff;
+    text-align:center;
+    padding:20px;
+    
+ 
+}
